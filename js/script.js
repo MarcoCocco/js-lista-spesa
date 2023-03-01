@@ -5,7 +5,7 @@
 //   b. Stampare l'elemento corrente sulla pagina
 //   c. Incrementare l'indice di 1
 
-let listaSpesa = ['Uova', 'Latte', 'Pasta', 'Carta igienica'];
+let listaSpesa = ['Uova', 'Latte', 'Pasta', 'Carta igienica', 'Frutta', 'Verdura', 'Acqua'];
 
 let index = 0;
 
